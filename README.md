@@ -1,1 +1,2 @@
 # Traffic_signal
+This Verilog project implements a traffic light controller for a hospital and a highway. It uses a finite state machine (FSM) to manage the traffic lights, prioritizing the hospital traffic and adjusting the timing based on a sensor input that detects vehicles on the highway. The controller has four states: green on hospital and red on highway, yellow on hospital and red on highway, red on hospital and green on highway, and red on highway and yellow on hospital.
